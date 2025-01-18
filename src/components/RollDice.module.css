@@ -1,0 +1,60 @@
+.card
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.diceimg
+{
+  /* min-width: 250px; */
+  cursor: pointer;
+}
+.rulebtn
+{
+  background-color: black;
+color: white;
+border-radius: 5px;
+padding: 10px 18px;
+font-size: 16px;
+font-weight: 600;
+border: none;
+min-width: 220px;
+border: 2px solid transparent;
+transition: 0.3s ease-in-out; 
+/* position: absolute;
+margin-left: 152px; */
+
+}
+ .rulebtn:hover
+{
+  background-color: white;
+  color:black;
+  border: 2px solid gray;
+  transition: 0.3s ease-in-out;
+}
+.resetbtn
+{
+  background-color: white;
+color: black;
+border-radius: 5px;
+padding: 10px 18px;
+font-size: 16px;
+font-weight: 600;
+border: none;
+min-width: 220px;
+border: 2px solid gray;
+transition: 0.3s ease-in-out; 
+/* position: absolute;
+margin-left: 152px; */
+
+}
+ .resetbtn:hover
+{
+  background-color:black;
+  color:white;
+  border: 2px solid gray;
+  transition: 0.3s ease-in-out;
+}

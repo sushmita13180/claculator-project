@@ -1,0 +1,9 @@
+.header
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  /* background-color: pink; */
+  /* padding-top: 20px; */
+}

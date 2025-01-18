@@ -1,0 +1,20 @@
+.rulecontainer
+{
+  background-color: #FBF1F1;
+  width: 794px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  margin-top: 10px;
+ 
+}
+h2
+{
+  font-weight: 700;
+  font-size: 24px;
+}
+h3{
+  font-size: 16px;
+  font-weight: 500;
+}
